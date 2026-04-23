@@ -85,7 +85,7 @@ I specialize in building:
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/suyashs-kotkar-006452b0
+- 💼 LinkedIn: https://linkedin.com/in/suyashskotkar
 - 📫 Email: suyashskotkar@gmail.com
 
 ---
