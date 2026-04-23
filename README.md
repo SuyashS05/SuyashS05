@@ -1,7 +1,11 @@
+![logo](https://github.com/SuyashS01/SuyashS01/blob/main/suyash.png)
+
 <h1 align="center">Hey 👋, I'm Suyash Kotkar</h1>
 <h3 align="center">AI SaaS Engineer | Founder | Building Real-World Systems 🚀</h3>
 
 ---
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 ## 🧠 Who I Am
 I’m a builder focused on **turning real-world problems into scalable software systems**.
