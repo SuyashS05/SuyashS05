@@ -1,24 +1,75 @@
 
 ![logo](https://github.com/SuyashS01/SuyashS01/blob/main/suyash.png)
-<h1 align="center">Hey 👋, I'mSuyash S Kotkar</h1>
-<h3 align="center">Innovative Application developer and crafting scalable web solutions.</h3>
+<h1 align="center">Hey 👋, I'm Suyash Kotkar</h1>
+<h3 align="center">AI SaaS Engineer | Founder | Building Real-World Systems 🚀</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+---
 
-- 🔭 I’m currently working on **FreshAGRO**
+## 🚀 About Me
+- 🧠 AI + SaaS builder focused on solving real-world problems
+- 🌱 Building **production-grade platforms in AgriTech & Commerce**
+- ⚙️ Full-stack developer (Flutter + FastAPI + Cloud)
+- 🧩 Turning manual workflows into automated intelligent systems
 
-- 🌱 I’m currently learning **Flutter letex, block, qubit, Python**
+---
 
-- 👯 I’m looking to collaborate on **SKImgnWorld**
+## 🏗️ What I’ve Built (Live Products)
 
-- 🤝 I’m looking for help with **APS**
+### 🌿 LeafTech Agro (SaaS Platform)
+- Full ecosystem for **farmers, sellers, nurseries**
+- 📦 Real-time plant booking, ledger & billing system
+- ⚡ Used in daily agricultural operations
 
-- 👨‍💻 All of my projects are available at [https://github.com/SuyashS05?tab=repositories](https://github.com/SuyashS05?tab=repositories)
+---
 
-- 💬 Ask me about **flutter dart web-dev**
+### 📱 SK Exotic Vegs App (Play Store)
+- Supplier billing & plant booking system
+- 📊 Real-time price updates + invoice automation
+- 💼 Built for real-world agri-commerce workflows
 
-- 📫 How to reach me **suyashskotkar@gmail.com**
+---
 
+### 🤖 BusyCall — AI Call Assistant
+- AI voice agent that **answers calls autonomously**
+- 🧠 Speech-to-text + NLP + action extraction
+- 📌 Generates summaries, tasks & structured logs
+
+---
+
+## 🧠 Tech Stack
+
+**Core**
+- Flutter, Dart, Firebase, FastAPI, Node.js
+
+**AI / ML**
+- NLP, TensorFlow, Scikit-learn
+
+**Backend & DevOps**
+- Docker, PostgreSQL, MongoDB
+
+**Other**
+- IoT, Arduino, Figma
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SuyashS05&show_icons=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuyashS05" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+- 💼 LinkedIn: https://linkedin.com/in/suyashs-kotkar-006452b0
+- 📫 Email: suyashskotkar@gmail.com
+
+---
+
+## ⚡ Current Focus
+- 🚜 Smart Agri Systems & Autonomous Vehicles
+- 🤖 AI Automation & Voice Agents
+- 📦 SaaS for Real-World Business Workflows
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/suyashs-kotkar-006452b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suyashs-kotkar-006452b0" height="30" width="40" /></a>
