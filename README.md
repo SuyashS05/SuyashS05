@@ -1,4 +1,3 @@
-![logo](https://github.com/SuyashS01/SuyashS01/blob/main/suyash.png)
 
 <h1 align="center">Hey 👋, I'm Suyash Kotkar</h1>
 <h3 align="center">AI SaaS Engineer | Founder | Building Real-World Systems 🚀</h3>
@@ -100,3 +99,5 @@ I specialize in building:
 - 🚜 Autonomous Agri Systems & Robotics
 - 🤖 AI Voice Agents & Automation
 - 📦 Scalable SaaS for real-world businesses
+
+![logo](https://github.com/SuyashS05/SuyashS05/blob/main/ChatGPT%20Image%20Aug%2031%2C%202026%2C%2003_54_31%20AM.png)
