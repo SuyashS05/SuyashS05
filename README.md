@@ -1,83 +1,88 @@
-<div align="center">
-  <h1>Hey, I'm Suyash Kotkar 👋</h1>
-  <p><strong>AI SaaS Engineer | Founder | Building Real-World Systems</strong></p>
-  <p>
-    <a href="https://linkedin.com/in/suyashskotkar"><img src="https://shields.io" alt="LinkedIn" /></a>
-    <a href="mailto:suyashskotkar@gmail.com"><img src="https://shields.io" alt="Email" /></a>
-  </p>
-</div>
+
+<h1 align="center">Hey 👋, I'm Suyash Kotkar</h1>
+<h3 align="center">AI SaaS Engineer | Founder | Building Real-World Systems 🚀</h3>
 
 ---
 
-<table border="0" width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <h3>🧠 About Me</h3>
-      <p>I am a pragmatic software builder focused on <strong>transforming systemic real-world inefficiencies into highly scalable software ecosystems</strong>.</p>
-      <p>I actively avoid building isolated side projects. Instead, I engineer production-grade platforms designed to optimize cross-functional operations across logistics, primary commerce, and automation pipelines.</p>
-      <p>My execution framework intersects across:</p>
-      <ul>
-        <li><strong>AI Systems & Autonomous Agents</strong></li>
-        <li><strong>Distributed SaaS Architecture</strong></li>
-        <li><strong>Operational Automation & Edge Computing</strong></li>
-      </ul>
-    </td>
-    <td width="40%" valign="top" align="center">
-      <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="100%" style="max-width:320px; border-radius:10px;" alt="Coding Illustration" />
-    </td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="SuyashS05's GitHub profile" src="dark_mode.svg" />
+</picture>
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+## 🧠 Who I Am
+I’m a builder focused on **turning real-world problems into scalable software systems**.
+
+I don’t just create projects — I build **production-ready platforms** used in actual workflows across agriculture, commerce, and automation.
+
+My work sits at the intersection of:
+- AI Systems 🤖
+- SaaS Platforms 📦
+- Automation & Real-world Operations ⚙️
 
 ---
 
-### 🚀 High-Impact Domains
-* **Production SaaS Ecosystems:** Multi-tenant mobile, web, and decentralized cloud infrastructure.
-* **Intelligent Agents:** Autonomous production pipelines utilizing speech processing, semantic search, and NLP.
-* **Supply-Chain & AgriTech Platforms:** Enterprise operational networks solving physical transactional and asset-tracking challenges.
+## 🚀 What I Build
+I specialize in building:
+
+- 📱 **End-to-End SaaS Products** (Mobile + Backend + Cloud)
+- 🤖 **AI Automation Systems** (Speech, NLP, Decision Flows)
+- 🌾 **AgriTech Platforms** solving real supply-chain problems
+- ⚙️ **Workflow Automation Tools** replacing manual processes
 
 ---
 
-### 🏗️ Featured Products
+## 🏗️ Featured Products
 
-#### 🌿 LeafTech Agro
-* **Ecosystem:** Enterprise B2B/B2C agricultural network tailored for farmers, distribution nurseries, and wholesale vendors.
-* **Core Ledger:** Custom transactional architecture running localized immutable ledgers, dynamic booking systems, and itemized billing engines.
-
-#### 📱 SK Exotic Vegs
-* **Operational Platform:** Live high-frequency billing and precise wholesale inventory system.
-* **Metrics:** Automated operational invoice routing and dynamic multi-tier dynamic pricing models matching real-time market shifts.
-
-#### 🤖 BusyCall — AI Call Assistant
-* **Autonomous Telephony:** End-to-end voice automation pipeline designed to orchestrate low-latency telephone inquiries.
-* **Intelligence Layer:** High-accuracy ASR (Speech-to-Text) + deep semantic extraction layers mapping raw real-time calls to structured JSON action logs.
+### 🌿 LeafTech Agro
+- SaaS ecosystem for farmers, sellers & nurseries
+- Real-time booking, ledger & billing system
+- Designed for daily agricultural operations
 
 ---
 
-### ⚙️ Core Technical Stack
-
-| Category | Technologies |
-| :--- | :--- |
-| **Client & State Platforms** | <img src="https://skillicons.dev" /> |
-| **Backend, Cloud & Storage** | <img src="https://skillicons.dev" /> |
-| **Intelligence & Core Infrastructure** | <img src="https://skillicons.dev" /> |
-| **Hardware Integration & UI Design** | <img src="https://skillicons.dev" /> |
+### 📱 SK Exotic Vegs App
+- Live supplier billing & inventory system
+- Real-time pricing + invoice automation
+- Built for real-world agri-commerce
 
 ---
 
-### 📊 Performance & Analytics
-
-<div align="center">
-  <img src="https://vercel.app" width="48%" />
-  <img src="https://herokuapp.com" width="48%" />
-</div>
+### 🤖 BusyCall — AI Call Assistant
+- Autonomous AI agent handling phone calls
+- Speech-to-text + NLP + action extraction
+- Generates summaries, tasks & structured logs
 
 ---
 
-### ⚡ Strategic Target Objectives
-* Engineering edge telemetry networks, embedded processing pipelines, and localized robotics frameworks within heavy resource domains.
-* Refining deep-speech models and functional context window constraints to minimize processing latencies across real-time voice networks.
-* Provisioning robust, deterministic enterprise software blueprints built for mission-critical business systems.
+## ⚙️ Tech Stack
 
-<div align="center">
-  <img src="https://github.com/SuyashS05/SuyashS05/blob/main/ChatGPT%20Image%20Aug%2031%2C%202026%2C%2003_54_31%20AM.png" width="80px" alt="Footer Branding" />
-</div>
+### 🚀 Core Expertise
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,fastapi,nodejs,react,python,tensorflow,docker,postgres,mongodb,git,figma,arduino" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SuyashS05&show_icons=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuyashS05" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+- 💼 LinkedIn: https://linkedin.com/in/suyashskotkar
+- 📫 Email: suyashskotkar@gmail.com
+
+---
+
+## ⚡ Current Focus
+- 🚜 Autonomous Agri Systems & Robotics
+- 🤖 AI Voice Agents & Automation
+- 📦 Scalable SaaS for real-world businesses
+
+![logo](https://github.com/SuyashS05/SuyashS05/blob/main/ChatGPT%20Image%20Aug%2031%2C%202026%2C%2003_54_31%20AM.png)
