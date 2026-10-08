@@ -1,88 +1,104 @@
+<h1 align="center">Suyash Sanjay Kotkar</h1>
 
-<h1 align="center">Hey 👋, I'm Suyash Kotkar</h1>
-<h3 align="center">AI SaaS Engineer | Founder | Building Real-World Systems 🚀</h3>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="SuyashS05's GitHub profile" src="dark_mode.svg" />
-</picture>
-
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-## 🧠 Who I Am
-I’m a builder focused on **turning real-world problems into scalable software systems**.
-
-I don’t just create projects — I build **production-ready platforms** used in actual workflows across agriculture, commerce, and automation.
-
-My work sits at the intersection of:
-- AI Systems 🤖
-- SaaS Platforms 📦
-- Automation & Real-world Operations ⚙️
-
----
-
-## 🚀 What I Build
-I specialize in building:
-
-- 📱 **End-to-End SaaS Products** (Mobile + Backend + Cloud)
-- 🤖 **AI Automation Systems** (Speech, NLP, Decision Flows)
-- 🌾 **AgriTech Platforms** solving real supply-chain problems
-- ⚙️ **Workflow Automation Tools** replacing manual processes
-
----
-
-## 🏗️ Featured Products
-
-### 🌿 LeafTech Agro
-- SaaS ecosystem for farmers, sellers & nurseries
-- Real-time booking, ledger & billing system
-- Designed for daily agricultural operations
-
----
-
-### 📱 SK Exotic Vegs App
-- Live supplier billing & inventory system
-- Real-time pricing + invoice automation
-- Built for real-world agri-commerce
-
----
-
-### 🤖 BusyCall — AI Call Assistant
-- Autonomous AI agent handling phone calls
-- Speech-to-text + NLP + action extraction
-- Generates summaries, tasks & structured logs
-
----
-
-## ⚙️ Tech Stack
-
-### 🚀 Core Expertise
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,fastapi,nodejs,react,python,tensorflow,docker,postgres,mongodb,git,figma,arduino" />
-</p>
-
----
-
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuyashS05&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuyashS05" />
+  <strong>AI & Robotics Researcher-in-Progress</strong><br>
+  Computer Vision · Autonomous Systems · Edge AI · Intelligent Control
+</p>
+
+<p align="center">
+  <a href="https://ieeexplore.ieee.org/author/680866977633111">IEEE</a> •
+  <a href="https://www.researchgate.net/scientific-contributions/Suyash-Sanjay-Kotkar-2303532867">ResearchGate</a> •
+  <a href="https://www.linkedin.com/in/suyashskotkar">LinkedIn</a>
 </p>
 
 ---
 
-## 🌐 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/suyashskotkar
-- 📫 Email: suyashskotkar@gmail.com
+## Research Profile
+
+Computer Science & Business Systems undergraduate transitioning from
+full-stack engineering and product development toward **AI, robotics,
+and autonomous systems research**.
+
+Interested in how intelligent machines can **perceive, understand, and
+act in real-world environments**.
+
+### Current Research Interests
+
+- Computer Vision & Real-Time Perception
+- Autonomous Agricultural Robotics
+- Edge AI & Embedded Intelligence
+- Intelligent Control & Navigation
+- Multi-Agent / Cooperative Systems
+- AI for Real-World Physical Environments
 
 ---
 
-## ⚡ Current Focus
-- 🚜 Autonomous Agri Systems & Robotics
-- 🤖 AI Voice Agents & Automation
-- 📦 Scalable SaaS for real-world businesses
+## Research Projects
 
-![logo](https://github.com/SuyashS05/SuyashS05/blob/main/ChatGPT%20Image%20Aug%2031%2C%202026%2C%2003_54_31%20AM.png)
+### APS Flow — Autonomous Agricultural System
+AI-based agricultural vehicle for plant detection, perception, and
+autonomous pesticide spraying.
+
+**Focus:** YOLO-based detection · Dataset Engineering · Computer Vision ·
+Edge AI · Autonomous Navigation
+
+### Agricultural Computer Vision
+Exploring vision-based understanding of crops and agricultural
+environments for intelligent machines.
+
+### Edge AI & Real-Time Perception
+Experiments with lightweight AI models for real-time inference on
+resource-constrained devices.
+
+---
+
+## Publications
+
+- **Decentralized AI Model Marketplace** — IEEE, 2026
+- **BeHealthy: Blockchain-Powered AI System** — IEEE GCWCN, 2025
+- **Mynklo: AI-Driven Online Store Generation** — IEEE INCSST, 2025
+- **CarboNexFarm: ML-Based Carbon Credit Platform** — IEEE ICOCT, 2025
+- **NearBySell: Localized E-Commerce Platform** — IEEE ICACC, 2024
+
+---
+
+## Technical Background
+
+**AI / ML:** Python · TensorFlow · Scikit-learn · Computer Vision · NLP · RAG · LangChain
+
+**Robotics / Edge:** Arduino · IoT · Embedded Systems · ROS2 · Edge AI
+
+**Engineering:** C/C++ · Java · JavaScript · Dart · Flutter · Node.js · FastAPI
+
+**Infrastructure:** Linux · Docker · Git · CI/CD · Firebase · Cloud Deployment
+
+---
+
+## Engineering Background
+
+Before moving toward research, I have built and deployed real-world
+software systems involving mobile applications, backend services,
+cloud infrastructure, automation, and SaaS platforms.
+
+### Founder — LeafTech Solutions
+
+Building **LeafTech Agro**, a digital platform connecting agricultural
+business workflows across farmers, sellers, nurseries and distributors.
+
+> Commercial source code is private. Selected architecture,
+> experiments and research work are shared publicly where possible.
+
+---
+
+## Research Direction
+
+**AI × Computer Vision × Robotics × Intelligent Systems**
+
+My long-term goal is to develop intelligent systems capable of
+reliable perception, decision-making, and action in complex physical
+environments.
+
+---
+
+> Building systems in the real world.  
+> Studying how to make them intelligent.
